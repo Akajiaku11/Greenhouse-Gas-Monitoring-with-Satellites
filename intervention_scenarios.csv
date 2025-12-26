@@ -1,0 +1,6 @@
+scenario_id,description,collection_coverage_pct,recycling_rate_pct,mismanaged_waste_reduction_pct,expected_ocean_plastic_change_pct
+S001,Baseline_2024,55,12,0,0
+S002,Improve_collection,70,12,5,-12
+S003,Boost_recycling,55,25,5,-15
+S004,Collection_plus_recycling,75,25,10,-28
+S005,High_impact_policy,85,35,20,-45
