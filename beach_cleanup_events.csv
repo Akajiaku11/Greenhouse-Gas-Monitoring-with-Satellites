@@ -1,0 +1,8 @@
+event_id,date,beach_name,country,lat,lon,volunteers,duration_hr,collected_kg,items_count,dominant_item,wind_mps,tide_state
+E001,2024-06-14,BarBeach,Nigeria,6.41,3.41,45,3.0,210,6840,plastic_bottles,4.2,mid
+E002,2024-07-02,Eleko,Nigeria,6.41,3.57,30,2.5,145,4310,sachets,5.1,low
+E003,2024-08-10,Brighton,UK,50.82,-0.14,60,3.0,98,3120,cigarette_butts,6.0,high
+E004,2024-09-05,Bournemouth,UK,50.72,-1.88,55,2.0,76,2450,food_wrappers,5.6,mid
+E005,2024-10-12,SantaMonica,USA,34.01,-118.50,80,3.5,130,4020,plastic_fragments,3.8,low
+E006,2024-11-03,CapeCoast,Ghana,5.11,-1.25,35,2.0,160,4980,sachets,4.5,mid
+E007,2024-12-01,LagosLekki,Nigeria,6.44,3.49,50,2.5,190,5900,plastic_bottles,4.9,high
